@@ -1,20 +1,10 @@
-﻿@model IEnumerable<Lojinha.Models.Lanche>
+﻿@model LanchesListViewModel
 @using Lojinha.Models
 
-<div><h2>Todos os Lanches</h2></div>
+<div><h2>@Model.CategoriaAtual</h2></div>
 <div class="form-group row" style="margin-top: 5%">
-    @foreach (var lanches in Model)
+    @foreach (var lanches in Model.Lanches)
     {
-        <div class="col-sm-4 col-lg-4 col-md-4">
-            <div class="rounded">
-                <img src="~/img/@lanches.ImagemUrl" class="img-fluid" alt="" />
-            </div>
-            <div class="caption">
-                <h4>@lanches.Preco.ToString("c")</h4>
-                <h4>@lanches.Nome</h4>
-                <p>@lanches.DescricaoCurta</p>
-            </div>
-
-        </div>
+        <partial name="_LanchesResumo" for="@lanches" />
     }
     </div>

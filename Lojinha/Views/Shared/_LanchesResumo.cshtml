@@ -1,0 +1,13 @@
+﻿@model Lanche
+<div class="col-sm-4 col-lg-4 col-md-4">
+    <div class="rounded">
+        <img src="~/img/@Model.ImagemUrl" class="img-fluid" alt="" />
+    </div>
+    <div class="caption">
+        <h4>@Model.Preco.ToString("c")</h4>
+        <h4><a asp-controller="Lanche" asp-action="Detalhes" asp-route-id="@Model.ID">@Model.Nome</a></h4>
+        <p>@Model.DescricaoCurta</p>
+        <a asp-controller="Carrinho" asp-action="Adicionar" asp-route-id="@Model.ID" class="btn btn-primary">Adicionar ao carrinho</a>
+</div>
+
+</div>

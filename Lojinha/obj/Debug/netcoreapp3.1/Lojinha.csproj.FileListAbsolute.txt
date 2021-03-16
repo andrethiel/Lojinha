@@ -136,7 +136,6 @@ G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Lojinha.TagHelpers.input.cach
 G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Lojinha.TagHelpers.output.cache
 G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Lojinha.RazorCoreGenerate.cache
 G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -150,3 +149,9 @@ G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Lojinha.dll
 G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Lojinha.pdb
 G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Lojinha.genruntimeconfig.cache
 G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\List.cshtml.g.cs
+G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LanchesResumo.cshtml.g.cs
+G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Index.cshtml.g.cs
+G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CarrinhoResumo\Default.cshtml.g.cs
+G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriaMenu\Default.cshtml.g.cs
+G:\Dropbox\Lojinha\Lojinha\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\Detalhes.cshtml.g.cs
